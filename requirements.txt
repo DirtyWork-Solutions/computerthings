@@ -1,6 +1,9 @@
 iso3166~=2.1.1
-iso4217~=1.3.20160701
+iso4217~=1.12.20240625
 iso-639~=0.4.5
+langcodes~=3.5.0
 macaddress~=2.0.2
 networkx~=3.4.2
 pint~=0.24.4
+urllib3~=2.3.0
+setuptools~=75.8.0
